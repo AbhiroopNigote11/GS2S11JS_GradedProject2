@@ -1,0 +1,10 @@
+const credentials = [
+  {
+    username: "user1",
+    password: "pass1",
+  },
+  {
+    username: "user1",
+    password: "pass2",
+  },
+];
